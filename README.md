@@ -1,4 +1,4 @@
-# blazor-TreeView-authorization
+# Blazor-TreeView-authorization
 
 **Repository Description**  
 This repository contains a Blazor sample that demonstrates usage of the Syncfusion Blazor TreeView component for displaying hierarchical data in a tree structure.
