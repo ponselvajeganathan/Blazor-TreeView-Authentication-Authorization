@@ -63,10 +63,6 @@ dotnet run
 
 6. Open the local URL displayed in the terminal and verify authentication and TreeView functionality.
 
-## Project Structure
-
-`Pages/Index.razor` — landing page for the application. [VERIFY: TreeView implementation details]
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
